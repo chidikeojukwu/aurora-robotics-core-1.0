@@ -1,4 +1,4 @@
-# Mobile Robot URDF Visualization with RViz2
+# Mobile Robot URDF Visualization with RViz
 
 This repository contains a simple **URDF model** of a mobile robot (with a base, lidar, left/right wheels, and caster wheel) and instructions for visualizing it in **RViz2** using ROS 2 Humble.
 
@@ -20,7 +20,7 @@ sudo apt install ros-humble-urdf-tutorial
 
 ```
 mobile-robot-pkg/
-└── urdf/
+└── URDF/
     └── my_robot.urdf
 ```
 
@@ -33,7 +33,7 @@ mobile-robot-pkg/
     source /opt/ros/humble/setup.bash
     ```
 
-2. **Launch the URDF in RViz2 using the urdf_tutorial package:**
+2. **Launch the URDF in RViz using the urdf_tutorial package:**
     ```bash
     ros2 launch urdf_tutorial display.launch.py model:=<absolute_path_to_my_robot.urdf>
     ```
@@ -44,11 +44,6 @@ mobile-robot-pkg/
 ## 🖥️ Visualizing in RViz2
 
 - RViz2 will start automatically when you launch.
-- In the Displays panel:
-    - Add a **RobotModel** display.
-    - Set the **Description Source** to `Topic`.
-    - Ensure the **Topic** is `/robot_description`.
-    - Set the **Fixed Frame** to `base_link` or `base_footprint` to see the robot properly.
 
 You should now see your robot model rendered in RViz 🎉
 
