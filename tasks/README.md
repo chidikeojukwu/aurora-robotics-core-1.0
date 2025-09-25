@@ -7,7 +7,7 @@ Each task is designed to build your foundational knowledge step by step, from Gi
 
 ## 📂 Tasks Overview  
 
-### 🔹 [TASK 1 – Git & GitHub Basics](./TACS1/README.md)  
+### 🔹 [TASK 1 – Git & GitHub Basics](./Task-1/README.md)  
 Learn the fundamentals of **Git & GitHub workflow**:  
 - Clone, branch, commit, push, and pull requests.  
 - Hands-on practice by adding yourself to the **Notable Mentions**.  
@@ -16,7 +16,7 @@ Learn the fundamentals of **Git & GitHub workflow**:
 
 ---
 
-### 🔹 [TASK 2 – Forward Kinematics](./TACS2/README.md)  
+### 🔹 [TASK 2 – Forward Kinematics](./Task-2/README.md)  
 Dive into the **mathematical modeling of robotic arms**:  
 - Understand 2-link, 3-link, and 4-link 2D forward kinematics.  
 - Learn to visualize robotic arm motion using Python.  
