@@ -12,7 +12,7 @@ Learn the fundamentals of **Git & GitHub workflow**:
 - Clone, branch, commit, push, and pull requests.  
 - Hands-on practice by adding yourself to the **Notable Mentions**.  
 
-📌 [Go to TASK 1 →](./TACS1/README.md)  
+📌 [Go to TASK 1 →](./Task-1/README.md)  
 
 ---
 
@@ -21,7 +21,7 @@ Dive into the **mathematical modeling of robotic arms**:
 - Understand 2-link, 3-link, and 4-link 2D forward kinematics.  
 - Learn to visualize robotic arm motion using Python.  
 
-📌 [Go to TASK 2 →](./TACS2/README.md)  
+📌 [Go to TASK 2 →](./Task-2/README.md)  
 
 ---
 
