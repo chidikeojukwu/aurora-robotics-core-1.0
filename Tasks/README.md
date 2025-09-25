@@ -1,66 +1,50 @@
-Task 1
+# 🚀 Robotics Core Workshop – Tasks
 
-Title: Add Yourself to the Notable Mentions
+Welcome to the **Robotics Core Workshop** tasks repository.  
+Each task is designed to build your foundational knowledge step by step, from Git basics to advanced robotics concepts.
 
-Objective: In this task, you will practice the Git & GitHub workflow: clone, branch, commit, push, and create a Pull Request (PR).
+---
 
-Idea: You’ll add your details into the repository:
+## 📂 Tasks Overview  
 
-Steps
+### 🔹 [TASK 1 – Git & GitHub Basics](./TACS1/README.md)  
+Learn the fundamentals of **Git & GitHub workflow**:  
+- Clone, branch, commit, push, and pull requests.  
+- Hands-on practice by adding yourself to the **Notable Mentions**.  
 
-Go to the repository: https://github.com/Bakel-Bakel/robotics-core-workshop-oct2025
-Fork the repository (click the Fork button on GitHub).
+📌 [Go to TASK 1 →](./TACS1/README.md)  
 
-Clone your fork to your local machine:
-git clone https://github.com/<your-username>/robotics-core-workshop-oct2025.git
-cd robotics-core-workshop-oct2025
+---
 
-Create a new branch with your name:
-git checkout -b add-yourname
+### 🔹 [TASK 2 – Forward Kinematics](./TACS2/README.md)  
+Dive into the **mathematical modeling of robotic arms**:  
+- Understand 2-link, 3-link, and 4-link 2D forward kinematics.  
+- Learn to visualize robotic arm motion using Python.  
 
-Navigate to the folder:
-cd notable-mention
-Create your text file and add your details:
-Firstname-Lastname.txt
+📌 [Go to TASK 2 →](./TACS2/README.md)  
 
+---
 
-Inside the folder notable-mention/, create a new text file named after yourself using the 
+## ✅ How to Use This Repo  
 
-Firstname-Lastname.txt
-Example:
-Bakel-Bakel.txt
+1. Navigate through the tasks in order (TASK 1 → TASK 2 → ...).  
+2. Each task folder contains:  
+   - A `README.md` with instructions.  
+   - Supporting files (code, examples, or references).  
+3. Follow the instructions step by step to complete each task.  
 
-Open the file and add your details in the following format:
-Full-Name , Linkedin-url , Role (student)
-git add notable-mention/Firstname-Lastname.txt
-git commit -m "Add my name to notable mentions"
-Push your branch:
-git push origin add-yourname
-On GitHub, open a Pull Request from your fork’s branch → main repository.
+---
 
-Completion Criteria
-Your .txt file is added in the notable-mention/ folder.
-It contains your full name and LinkedIn link.
-A Pull Request is submitted and visible on the original repository.
+## 📖 Notes  
+- Start with **TASK 1** before moving on.  
+- Each task builds on the previous one, so don’t skip!  
+- Contribute by submitting Pull Requests with improvements or corrections.  
 
-Task 2
-1. Install python first
-2. Install VScode (watch youtube videos on how to add Cppand python extensions)
-3. If you do not know python already, watch a few crash courses, my dm will be open to any
-single question at all, regardless of how basic.
+---
+
+✨ Let’s learn, build, and innovate together!
 
 
-Task
-Clone the repo
-Copy the 2_links_2d.py into the task folder
-Comment on every line, add more intel if you wish
-Document it in a name-readme.md
-that's all
-
-
-I highly encourage overdo
-
-Be as creative as you want.
 
 
 
