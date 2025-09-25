@@ -32,7 +32,8 @@ Understand the tool and the code.
    ```
 
 2. **Copy the file into your task folder**  
-   - Copy `2_links_2d.py` into the `task2/` folder.  
+   - Copy `2_links_2d.py` into the `your-task-folder/` folder. 
+   - Rename it to `my-name-2_links_2d.py` 
 
 3. **Comment the code**  
    - Add comments on **every line**.  
@@ -43,18 +44,20 @@ Understand the tool and the code.
      ```
      name-readme.md
      ```  
-   - Inside, explain what you did and learned.  
+   - Inside, explain more on what you did and learned.  
+
 
 5. **That’s all!** 🎉  
    - But I highly encourage you to **overdo**:  
      - Add illustrations, explanations, or visuals.  
      - Be as creative as you want!  
+     - You can even create a new folder, upload your solvings of new arms, your new codes, and other overdo assets!.
 
 ---
 
 ## ✅ Completion Criteria  
 
-- `2_links_2d.py` is copied into the `task2/` folder.  
+- `2_links_2d.py` is copied into the `your-task-folder/` folder.  
 - Every line is commented with explanations.  
 - A `name-readme.md` is created with documentation of your process.  
 
