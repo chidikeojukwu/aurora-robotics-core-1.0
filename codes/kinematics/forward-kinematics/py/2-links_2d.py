@@ -1,4 +1,4 @@
-# two_link_sliders.py
+
 import numpy as np
 import matplotlib.pyplot as plt
 from matplotlib.widgets import Slider
